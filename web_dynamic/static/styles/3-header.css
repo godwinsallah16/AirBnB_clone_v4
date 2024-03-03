@@ -1,0 +1,39 @@
+
+/**
+    * Header
+    */
+header {
+    background-color: #ffffff;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 20px 50%;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+/**
+*div
+*/
+header div {
+    float: right;
+    background-color: #CCCCCC;
+    border: 1px;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+    margin-right: 30px;
+}
+/**
+* background colour
+*/
+.available {
+    background-color: #ff545f;
+}
+/**
+header .logo {
+    background: url("../images/logo.png") no-repeat;
+    left: 20px;
+    height: 100%;
+}
+*/
